@@ -6,7 +6,7 @@ Odyssea is an arcade style survival game where you play as a ship navigating thr
 
 ![Gameplay](/img/screenshot.png "Odyssea gameplay screenshot")
 
-Odyssea was built by Kelly Lee (yl3267), Jeffrey Zhou (jlz45), Spencer Dunn (smd326) and Nicole Ding (nd347) in Spring 2022 for our CS 3110 final project. 
+Odyssea was built by [Kelly Lee] (https://github.com/kellscode), [Jeffrey Zhou] (https://github.com/jffzhou), Spencer Dunn (https://github.com/smdunn0) and Nicole Ding (https://github.com/dingnic) in Spring 2022 for our CS 3110 final project. 
 
 Installation
 -----------
@@ -16,7 +16,7 @@ Installation
 
 First, ensure that you are using Homebrew and not MacPorts. Then, clone the repository by running 
 ```
-git clone https://github.coecis.cornell.edu/nd347/CS3110FinalProject/
+git clone https://github.com/dingnic/Odyssea.git
 ```
 
 Then run
